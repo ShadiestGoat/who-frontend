@@ -1,6 +1,9 @@
-# create-svelte
+# Who Frontned
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+This is a frontend for [the backend of this app](https://github.com/ShadiestGoat/who-backend). For more info on this project and what it stands for, checkout it's README!
+
+
+Powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
 ## Creating a project
 
